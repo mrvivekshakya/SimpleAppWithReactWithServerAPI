@@ -1,0 +1,11 @@
+export const serverAddress = 'http://localhost:5000';
+export const ADD_USER = "ADD_USER";
+export const REMOVE_USER = "REMOVE_USER";
+export const UPDATE_USER = "UPDATE_USER";
+export const SHOW_USER_LIST = "SHOW_USER_LIST";
+export const SHOW_USER_LIST_FULFILLED = "SHOW_USER_LIST_FULFILLED";
+export const SHOW_USER_LIST_REJECTED = "SHOW_USER_LIST_REJECTED";
+export const SHOW_USER_LIST_PENDING = "SHOW_USER_LIST_PENDING";
+export const CHANGED_INFO = "CHANGED_INFO";
+export const GET_USER = "GET_USER";
+export const ID_SETTED = "ID_SETTED";
